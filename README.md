@@ -1,4 +1,4 @@
-DEMO LINK - https://stanis-tsv.github.io/vue-test-website/
+DEMO LINK - https://stanis-tsv.github.io/vue-test/
 
 What is done:
 
