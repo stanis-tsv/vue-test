@@ -4,7 +4,7 @@ What is done:
 
 - adaptive layout
 - adaptive menu
-- receiving data using 'fetch'
+- fetching data
 - data processing in the form of video cards
 - video search by title in the header
 - video filter in the navbar
